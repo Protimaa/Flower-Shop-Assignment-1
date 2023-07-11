@@ -204,7 +204,35 @@ nav ul li a:hover{
     color: #E55473;
 }
 /* hot-deal styles ends from here  */
-
+/* Instagram section starts from here  */
+.instagram{    
+    text-align: center;
+}
+.intagram-title{
+    color: #272727;
+    font-size: 35px;
+    font-weight: 800;
+    width: 500px;
+    margin: 0 auto ;
+}
+.intagram-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+    line-height: 25px;
+    width: 500px;
+    margin: 20px auto ;
+}
+.intagram-images{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    justify-content: center;
+}
+.intagram-images img{
+    width: 300px;
+}
+/* Instagram section ends from here  */
 /* footer section starts from herer */
 footer{
     background-color: #111010;;
