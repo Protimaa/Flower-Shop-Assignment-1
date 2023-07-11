@@ -169,3 +169,38 @@ nav ul li a:hover{
     line-height: 35px;
 }
 /* services section ends from here  */
+
+/* hot-deal styles starts from here  */
+.hot-deal-section{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 0px 100px;
+} 
+.hot-deal-section .hot-deal-content{
+    width: 500px;
+}
+.hot-deal-content .hot-deal-title{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+}
+.hot-deal-content .hot-deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 20px 0px 20px 0px;
+}
+.hot-deal-section img{
+    width: 318px;
+    height: 420px;
+}
+
+.off{
+    color: #E55473;
+}
+/* hot-deal styles ends from here  */
