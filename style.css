@@ -144,3 +144,18 @@ nav ul li a:hover{
     font-weight: 700;
     line-height: 35px;
 }
+
+/* services section starts from here  */
+.servics{   
+    display: flex;
+    justify-content: space-around;
+    max-width: 820px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 8px;
+    /* background: rgba(39, 39, 39, 0.05); */
+    background-color: red;
+    padding: 50px;
+    gap: 60px;
+}
+/* services section ends from here  */
