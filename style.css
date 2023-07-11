@@ -5,6 +5,8 @@
 body{
     font-family: 'Lato', sans-serif;
 } 
+
+/* header section starts here  */
 .header{
     background-color: rgba(229, 84, 115, 0.10);
 }
@@ -54,7 +56,7 @@ nav ul li a:hover{
     align-items: center;
     text-align: center; 
     justify-content: space-between;
-    padding: 50px 100px 30px 120px;
+    padding: 30px 100px 0px 120px;
     text-align: left;
     
 }
@@ -84,4 +86,53 @@ nav ul li a:hover{
     border-radius: 8px;
     background: #E55473;
     border: none;
+}
+
+/* header section ends here  */
+.our-feature{
+    text-align: center;
+}
+.our-section-container{
+    text-align: center;
+    margin: 50px 400px;
+    padding: 20px;
+}
+.our-feature-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.our-feature-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 0px;
+    
+}
+.our-section-card{
+    display: flex;
+    align-items: center;
+}
+.cards{
+    
+}
+.cards img{
+    width: 200px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 300px 300px 0px 0px;
+    padding: 70px 40px 0px 40px;   
+    
+}
+.card-photo1{
+    
+    background: rgba(167, 33, 98, 0.15);
+}
+.card-photo2{
+    background: rgba(5, 151, 160, 0.15);
+}
+.card-photo3{
+    background: rgba(71, 125, 17, 0.15);
 }
