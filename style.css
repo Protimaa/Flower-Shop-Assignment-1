@@ -228,9 +228,10 @@ nav ul li a:hover{
     text-align: center;
     gap: 20px;
     justify-content: center;
+    text-align: center;
 }
 .intagram-images img{
-    width: 300px;
+    width: 200px;
 }
 /* Instagram section ends from here  */
 /* get-deal section starts from here  */
@@ -241,7 +242,7 @@ nav ul li a:hover{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 100px;
-    margin: 80px;
+    margin: 80px 245px;
 }
 .get-deal h2{
     color: #272727;
