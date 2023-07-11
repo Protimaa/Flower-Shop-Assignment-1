@@ -91,7 +91,7 @@ nav ul li a:hover{
 /* header section ends here  */
 .our-feature{
     text-align: center;
-    margin-bottom: 0px;
+    margin-bottom: 70px;
 }
 .our-section-container{
     text-align: center;
@@ -153,9 +153,19 @@ nav ul li a:hover{
     margin: 0 auto;
     text-align: center;
     border-radius: 8px;
-    /* background: rgba(39, 39, 39, 0.05); */
-    background-color: red;
+    background: rgba(39, 39, 39, 0.05); 
     padding: 50px;
     gap: 60px;
+}
+.delivery img{
+    width: 50px;
+    height: 50px;
+}
+.delivery p{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 35px;
 }
 /* services section ends from here  */
