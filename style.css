@@ -233,6 +233,38 @@ nav ul li a:hover{
     width: 300px;
 }
 /* Instagram section ends from here  */
+/* get-deal section starts from here  */
+.get-deal{
+    text-align: center;    
+    background-image: url('Flower Asset/Rectangle\ 9.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 100px;
+    margin: 80px;
+}
+.get-deal h2{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    
+}
+.get-deal p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    margin: 10px 0px 25px;
+}
+.get-deal input[type="text"]{
+    padding: 15px;
+    color: white;
+    border-radius: 8px;
+    background: white;
+    border: none;
+    width: 400px;
+    margin-bottom: 70px;
+}
+/* get-deal section ends from here  */
 /* footer section starts from herer */
 footer{
     background-color: #111010;;
