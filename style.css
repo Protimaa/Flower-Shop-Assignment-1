@@ -232,7 +232,7 @@ nav ul li a:hover{
     text-align: center;
 }
 .intagram-images img{
-    width: 200px;
+    width: 250px;
 }
 /* Instagram section ends from here  */
 /* get-deal section starts from here  */
@@ -243,7 +243,7 @@ nav ul li a:hover{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 100px;
-    margin: 80px 24px;
+    margin: 80px 140px;
 }
 .get-deal h2{
     color: #272727;
